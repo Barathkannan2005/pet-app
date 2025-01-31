@@ -86,6 +86,6 @@ app.get('/', async (req, res) => {
 });
 
 // Start server
-app.listen(3000, () => {
-    console.log("App is running on port 3000");
+app.listen(5004, () => {
+    console.log("App is running ");
 });
